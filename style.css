@@ -4,7 +4,7 @@
 }
 .main{
     width: 100;
-    background:linear-gradient(to top,rgba(0,0,0,0.5) 50%,rgba(0,0,0,0.5)50%),url(orange.jpg);
+    background:url(orange.jpg);
     background-color:center;
     background-size: cover;
     height: 109vh;
@@ -20,7 +20,7 @@
     height: 70px;
 }
 .logo{
-    color: orange;
+    color: greenyellow;
     font-size: 35px;
     font-family: Arial,;
     padding: left 2px;;
@@ -50,7 +50,7 @@ ul li a{
     transition: 0.4s ease-in-out;
 }
 ul li a:hover{
-    color: orange;
+    color: greenyellow;
 }
 .search{
     width: 330px;
@@ -62,7 +62,7 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px orange;
+    border: 1px greenyellow;
     margin-top: 13px;
     color: white;
     border-right: none ;   
@@ -75,10 +75,10 @@ ul li a:hover{
 .btn{
     width:100px;
     height: 40px;
-    background:orange;
-    border: 2px solid orange;
+    background:rgb(47, 255, 161);
+    border: 2px solid rgb(47, 255, 161);
     margin-top: 13px;
-    color: white;
+    color:black;
     font-size: 15px;
     border-bottom-right-radius: 5px; 
     border-bottom-right-radius: 5px;   
@@ -113,7 +113,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: orange;
+    background: blue;
     border:none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -147,9 +147,8 @@ font-size: 60px  ;
     width: 220px;
     font-family: sans-serif;
     text-align: center;
-    color: orange;
+    color: greenyellow;
     font-size: 22px;
-    background-color: white;
     border-radius: 10px;
     margin: 2px;
     padding:8px ;
@@ -158,7 +157,7 @@ font-size: 60px  ;
     width: 240px;
     height: 35px;
     background: transparent;
-    border-bottom: 1px solid orange;
+    border-bottom: 1px solid greenyellow;
     border-top: none;
     border-right: none ;
     border-left: none;
